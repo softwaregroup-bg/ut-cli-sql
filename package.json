@@ -1,0 +1,46 @@
+{
+  "name": "ut-cli-sql",
+  "version": "5.0.0",
+  "description": "SQL schema update runner",
+  "dependencies": {
+    "rc": "^1.1.6",
+    "ut-port-sql": "~5.3.43",
+    "ut-bus": "~5.3.0"
+  },
+  "devDependencies": {
+    "ut-tools": "^5.3.13"
+  },
+  "publishConfig": {
+    "registry": "https://nexus.softwaregroup-bg.com/repository/npm-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.softwaregroup-bg.com:ut5/ut-cli-sql.git"
+  },
+  "scripts": {
+    "lint": "ut-lint .",
+    "release": "ut-release",
+    "changelog": "ut-changelog",
+    "check": "ut-check",
+    "cover": "ut-cover",
+    "lint-js": "ut-lint-js .",
+    "postpublish": "ut-postpublish",
+    "postversion": "ut-postversion",
+    "precommit": "ut-precommit",
+    "prepublish": "ut-prepublish",
+    "prepush": "ut-prepush",
+    "pretest": "ut-pretest",
+    "preversion": "ut-preversion",
+    "test": "ut-test",
+    "version": "ut-version",
+    "jenkins": "ut-jenkins",
+    "gitlab": "ut-gitlab"
+  },
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "bin": {
+    "ut-sql": "index.js"
+  },
+  "preferGlobal": true
+}

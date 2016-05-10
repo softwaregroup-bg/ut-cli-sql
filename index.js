@@ -25,4 +25,4 @@ sql.connect().then(() => {
     console.log('Schemas are inserted');
     sql.stop();
     process.exit(0);
-});
+}).catch(console.log);

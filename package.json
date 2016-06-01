@@ -11,7 +11,7 @@
     "ut-tools": "^5.3.13"
   },
   "publishConfig": {
-    "registry": "https://nexus.softwaregroup-bg.com/repository/npm-all"
+    "registry": "https://nexus.softwaregroup-bg.com/repository/npm-internal"
   },
   "repository": {
     "type": "git",

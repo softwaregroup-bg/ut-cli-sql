@@ -4,7 +4,7 @@
   "description": "SQL schema update runner",
   "dependencies": {
     "rc": "^1.1.6",
-    "ut-port-sql": "~5.3.43",
+    "ut-port-sql": "~5.3.57",
     "ut-bus": "~5.3.0"
   },
   "devDependencies": {

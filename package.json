@@ -3,7 +3,7 @@
   "version": "5.0.1",
   "description": "SQL schema update runner",
   "dependencies": {
-    "rc": "^1.1.6",
+    "rc": "1.1.6",
     "ut-port-sql": "~5.3.57",
     "ut-bus": "~5.3.0"
   },

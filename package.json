@@ -1,14 +1,14 @@
 {
   "name": "ut-cli-sql",
-  "version": "5.0.1",
+  "version": "5.4.0",
   "description": "SQL schema update runner",
   "dependencies": {
     "rc": "1.1.6",
-    "ut-port-sql": "~5.3.57",
-    "ut-bus": "~5.3.0"
+    "ut-port-sql": "~5.4.1",
+    "ut-bus": "~5.4.2"
   },
   "devDependencies": {
-    "ut-tools": "^5.3.13"
+    "ut-tools": "^5.4.1"
   },
   "publishConfig": {
     "registry": "https://nexus.softwaregroup-bg.com/repository/npm-internal"

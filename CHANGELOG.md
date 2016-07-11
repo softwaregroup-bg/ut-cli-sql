@@ -1,3 +1,18 @@
+<a name="5.4.1"></a>
+## [5.4.1](https://git.softwaregroup-bg.com/ut5/ut-cli-sql/compare/v5.0.1...v5.4.1) (2016-07-11)
+
+
+### Bug Fixes
+
+* update dependencies ([39f74be](https://git.softwaregroup-bg.com/ut5/ut-cli-sql/commit/39f74be))
+
+
+### Features
+
+* upgrade dependencies ([af58655](https://git.softwaregroup-bg.com/ut5/ut-cli-sql/commit/af58655))
+
+
+
 <a name="5.0.1"></a>
 ## 5.0.1 (2016-06-01)
 

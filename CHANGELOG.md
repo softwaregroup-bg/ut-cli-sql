@@ -1,3 +1,13 @@
+<a name="5.4.3"></a>
+## [5.4.3](https://github.com/softwaregroup-bg/ut-cli-sql/compare/v5.4.2...v5.4.3) (2016-08-12)
+
+
+### Bug Fixes
+
+* publish to npm ([882bef7](https://github.com/softwaregroup-bg/ut-cli-sql/commit/882bef7))
+
+
+
 <a name="5.4.2"></a>
 ## [5.4.2](https://git.softwaregroup-bg.com/ut5/ut-cli-sql/compare/v5.4.1...v5.4.2) (2016-08-02)
 

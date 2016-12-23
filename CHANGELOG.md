@@ -1,3 +1,13 @@
+<a name="5.5.0"></a>
+# [5.5.0](https://github.com/softwaregroup-bg/ut-cli-sql/compare/v5.4.6...v5.5.0) (2016-12-23)
+
+
+### Features
+
+* fix dependencies ([72e5495](https://github.com/softwaregroup-bg/ut-cli-sql/commit/72e5495))
+
+
+
 <a name="5.4.6"></a>
 ## [5.4.6](https://github.com/softwaregroup-bg/ut-cli-sql/compare/v5.4.5...v5.4.6) (2016-12-01)
 

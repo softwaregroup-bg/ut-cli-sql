@@ -1,6 +1,6 @@
 {
   "name": "ut-cli-sql",
-  "version": "5.5.2",
+  "version": "5.5.3",
   "description": "SQL schema update runner",
   "dependencies": {
     "rc": "1.1.6",
